@@ -21,9 +21,9 @@ Work experience
 
 Teaching 
 ====== 
-* Dynamic Macroeconomics—————— *Teaching Assistant*
-* Principles of Macroeconomics——————*Teaching Assistant*
-* Undergraduate & MSc Dissertation——————*Supervisor*
+* Dynamic Macroeconomics —— *Teaching Assistant*
+* Principles of Macroeconomics —— *Teaching Assistant*
+* Undergraduate & MSc Dissertation —— *Supervisor*
 
 
 Skills 
