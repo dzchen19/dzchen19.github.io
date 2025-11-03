@@ -14,9 +14,8 @@ I am on the 2025-26 job market.
 </div>
 
 <br>
-<br>
 
-## Research Interests
+# Research Interests
 - Labour Economics  
 - Health and Well-being
 - Migration and Return Migration
