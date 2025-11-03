@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,12 +17,12 @@ redirect_from:
     <td align="right">2025</td>
   </tr>
   <tr>
-    <td><b>M.S. in Business Finance & Economics</b></td>
+    <td><b>MSc in Business Finance & Economics</b></td>
     <td>University of Sheffield, UK</td>
     <td align="right">2020</td>
   </tr>
   <tr>
-    <td><b>B.S. in Financial Mathematics</b></td>
+    <td><b>BSc in Financial Mathematics</b></td>
     <td>Luoyang Normal University, China</td>
     <td align="right">2018</td>
   </tr>
