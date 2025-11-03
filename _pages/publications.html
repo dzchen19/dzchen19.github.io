@@ -1,36 +1,44 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Working Papers
 
-{% include base_path %}
+My research focuses on migration and health, studying how migration experiences shape the well-being of migrants and their children. I use large-scale panel data and applied microeconometric methods to analyse health dynamics and the mechanisms underlying health inequalities.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+I currently have several working papers in progress. Titles and brief summaries are below.
 
+---
 
+### **Exploring the Healthy Immigrant Effect: Does This Hypothesis Apply to China?**
+*Job Market Paper*
 
+Uses fixed-effects and Heckman selection models to address attrition bias during the Global Financial Crisis. Finds that internal migrants initially enjoy better health than local residents. This advantage diminishes over time.
+
+---
+
+### **The Cost of Absence: Parental Migration, Remittances, and Child Health in Rural China**
+*Working Paper*
+
+Uses CFPS panel data and instrumental variable estimation to examine whether remittances compensate for the health impacts of parental absence on left-behind children in rural China. Employsdistinct measures of physical and mental health.  
+
+---
+
+### **The Impact of Return Migration on Subjective Well-Being: Evidence from Rural China**
+*Working Paper*
+
+Uses first-difference estimation to assess changes in subjective well-being after return migration. Distinguishes between recent and long-term returnees. Constructs a GHQ-12-based index to evaluate post-return well-being and its underlying mechanisms.  
+
+---
+
+### **When the Air Gets Dirty: Recruitment Responses in China’s Listed Companies**
+- *With Yu Qin and Hanlei Huang--Working Paper*
+This paper examines how air pollution shapes firms’ recruitment strategies in China. Using a CES framework and a panel of over seven million online job postings, we find that higher pollution leads firms to lower advertised wages for managerial roles while expanding hiring for non-managerial positions. Instrumental variable estimates using exogenous pollution shocks confirm causality, showing that environmental stress reshapes labour demand and pay structures.
+
+---
+
+### **• Refugee Inflows and Child Development: Evidence from a Multi-Country Panel**
+- *With Yu Qin*
+This project explores the effects of refugee inflows on child development outcomes in host communities, focusing on education, health, and psychosocial indicators. Using harmonised household data across multiple countries, the study finds substantial heterogeneity depending on the institutional setting and integration policies in place. The paper is currently in preparation.
