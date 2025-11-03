@@ -10,7 +10,10 @@ header: false
 <style>
 /* cv 样式仅作用于本页 */
 .cv { font-size: 1rem; line-height: 1.6; }
-.cv h2 { margin-top: 1.2rem; margin-bottom: 0.6rem; }
+
+/* 副标题间距更宽 */
+.cv h2 { margin-top: 2rem; margin-bottom: 1rem; }
+
 .cv-grid-3 {
   display: grid;
   grid-template-columns: 1fr 1fr auto;
@@ -27,11 +30,12 @@ header: false
 }
 .cv-title { font-weight: 700; }
 .cv-right { text-align: right; white-space: nowrap; }
-.cv-section { margin-bottom: 1.2rem; }
+
+/* 调整每个版块底部间距 */
+.cv-section { margin-bottom: 2rem; }
 </style>
 
 <div class="cv">
-
 
 <h2>Education</h2>
 <div class="cv-section cv-grid-3">
@@ -47,8 +51,6 @@ header: false
   <div>Luoyang Normal University, China</div>
   <div class="cv-right">2018</div>
 </div>
-
-<br>
   
 <h2>Work Experience</h2>
 <div class="cv-section cv-grid-2">
@@ -59,8 +61,6 @@ header: false
   <div class="cv-right">KPMG</div>
 </div>
 
-<br>
-  
 <h2>Teaching</h2>
 <div class="cv-section cv-grid-2">
   <div>Dynamic Macroeconomics</div>
@@ -72,8 +72,6 @@ header: false
   <div>Undergraduate &amp; MSc Dissertation</div>
   <div class="cv-right">Supervisor</div>
 </div>
-
-<br>
 
 <h2>Skills</h2>
 <ul>
