@@ -48,7 +48,7 @@ header: false
   <div class="cv-right">2018</div>
 </div>
 
-<dv>
+<br>
   
 <h2>Work Experience</h2>
 <div class="cv-section cv-grid-2">
@@ -59,7 +59,7 @@ header: false
   <div class="cv-right">KPMG</div>
 </div>
 
-<dv>
+<br>
   
 <h2>Teaching</h2>
 <div class="cv-section cv-grid-2">
@@ -73,7 +73,7 @@ header: false
   <div class="cv-right">Supervisor</div>
 </div>
 
-<dv>
+<br>
 
 <h2>Skills</h2>
 <ul>
