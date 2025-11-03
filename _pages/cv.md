@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <style>
 /* 仅作用于本页 CV 块，不影响站内其他页面 */
 .cv { font-size: 1rem; line-height: 1.6; }
