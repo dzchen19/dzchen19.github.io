@@ -1,18 +1,17 @@
 ---
-layout: archive
-title: #"CV"
+layout: single
+title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
+<!-- 启用 HTML 渲染 -->
+{% raw %}{% endraw %}
+
 <style>
-/* 仅作用于本页 CV 块，不影响站内其他页面 */
+/* CV 样式仅作用于本页 */
 .cv { font-size: 1rem; line-height: 1.6; }
 .cv h2 { margin-top: 1.2rem; margin-bottom: 0.6rem; }
-
-/* 三列：左（学位/课程），中（学校/单位），右（年份/角色） */
 .cv-grid-3 {
   display: grid;
   grid-template-columns: 1fr 1fr auto;
@@ -20,8 +19,6 @@ redirect_from:
   row-gap: 6px;
   align-items: baseline;
 }
-
-/* 两列：左（职位/课程），右（单位/角色） */
 .cv-grid-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -29,8 +26,6 @@ redirect_from:
   row-gap: 6px;
   align-items: baseline;
 }
-
-/* 行内小样式 */
 .cv-title { font-weight: 700; }
 .cv-right { text-align: right; white-space: nowrap; }
 .cv-section { margin-bottom: 1.2rem; }
@@ -85,6 +80,3 @@ redirect_from:
   </ul>
 
 </div>
-
-
-
