@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
-<table>
+<table style="border-collapse:collapse; border:none; width:100%;">
   <tr>
     <td><b>Ph.D. in Economics</b></td>
     <td>University of Southampton, UK</td>
@@ -29,7 +29,7 @@ redirect_from:
 </table>
 
 <h2>Work Experience</h2>
-<table>
+<table style="border-collapse:collapse; border:none; width:100%;">
   <tr>
     <td>Research Assistant</td>
     <td>University of Southampton</td>
@@ -41,7 +41,7 @@ redirect_from:
 </table>
 
 <h2>Teaching</h2>
-<table>
+<table style="border-collapse:collapse; border:none; width:100%;">
   <tr>
     <td>Dynamic Macroeconomics</td>
     <td align="right">Teaching Assistant</td>
@@ -63,4 +63,5 @@ redirect_from:
   <li><b>Data:</b> large-scale micro data, administrative data, satellite data</li>
   <li><b>Languages:</b> English, Chinese</li>
 </ul>
+
 
