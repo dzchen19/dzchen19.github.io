@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-**Ph.D in Economics**                        University of Southampton, UK      2025
-**M.S. in Business Finance & Economics**     University of Sheffield, UK        2020
-**B.S. in Financial Mathematics**            Luoyang Normal University, China   2018
+* **Ph.D in Economics**                        University of Southampton, UK      2025
+* **M.S. in Business Finance & Economics**     University of Sheffield, UK        2020
+* **B.S. in Financial Mathematics**            Luoyang Normal University, China   2018
 
 
 
