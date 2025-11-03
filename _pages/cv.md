@@ -26,15 +26,15 @@ Work experience
 
 Teaching
 ======
-*Dynamic Macroeconomics               Teaching Assistant
-*Principles of Macroeconomics         Teaching Assistant
-*Undergraduate & MSc Dissertation     Supervisor
+* Dynamic Macroeconomics               Teaching Assistant
+* Principles of Macroeconomics         Teaching Assistant
+* Undergraduate & MSc Dissertation     Supervisor
 
 
 
 Skills
 ======
-*Econometrics: causal inference with panel data & time series
-*Software: Stata, R, Python
-*Data: large-scale micro data, administrative data, satellite data
-*Languages: English, Chinese
+* Econometrics: causal inference with panel data & time series
+* Software: Stata, R, Python
+* Data: large-scale micro data, administrative data, satellite data
+* Languages: English, Chinese
