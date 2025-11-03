@@ -32,7 +32,6 @@ header: false
 
 <div class="cv">
 
-<h1>CV</h1>
 
 <h2>Education</h2>
 <div class="cv-section cv-grid-3">
