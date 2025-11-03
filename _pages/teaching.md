@@ -11,7 +11,7 @@ During my PhD at the University of Southampton, I worked as a Teaching Assistant
 </div>
 
 
-#### Teaching Experience
+### Teaching Experience
 
 - **Dynamic Macroeconomics** — Teaching Assistant  
 - **Principles of Macroeconomics** — Teaching Assistant
