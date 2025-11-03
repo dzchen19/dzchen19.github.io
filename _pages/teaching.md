@@ -2,6 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+header: false
 ---
 
 ## Teaching Overview
