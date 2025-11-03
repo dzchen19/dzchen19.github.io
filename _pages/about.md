@@ -14,7 +14,6 @@ I am Dingzhi Chen, a PhD in Economics at the University of Southampton. Supervis
 
 ---
 <br>
-<br>
 
 # Research Interests
 - Labour Economics  
