@@ -2,6 +2,7 @@
 layout: single
 title: #"Publications"
 permalink: /research/
+header: false
 ---
 
 ## Working Papers
