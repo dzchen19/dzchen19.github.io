@@ -23,7 +23,7 @@ repository               : "dzchen19/dzchen19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/photo.jpg"
+  avatar           : "assets/images/photo.jpg"
   name             : "Dingzhi Chen"
   pronouns         : "he/him"  
   bio              : "PhD in Economics, University of Southampton. Health & Labour Economics; Migration, Environment."
