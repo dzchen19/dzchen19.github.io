@@ -28,14 +28,14 @@ Uses first-difference estimation to assess changes in subjective well-being afte
 ---
 
 **4. When the Air Gets Dirty: Recruitment Responses in China’s Listed Companies**  
-*With Yu Qin and Hanlei Huang -- Working Paper*  
+*With Yu Qin & Hanlei Huang -- Working Paper*  
 
 This paper examines how air pollution shapes firms’ recruitment strategies in China. Using a CES framework and a panel of over seven million online job postings, we find that higher pollution leads firms to lower advertised wages for managerial roles while expanding hiring for non-managerial positions. Instrumental variable estimates using exogenous pollution shocks confirm causality, showing that environmental stress reshapes labour demand and pay structures.
 
 ---
 
 **5. Refugee Inflows and Child Development: Evidence from a Multi-Country Panel**  
-*With Yu Qin*  
+*With Yu Qin -- Working Paper*  
 This project explores the effects of refugee inflows on child development outcomes in host communities, focusing on education, health, and psychosocial indicators. Using harmonised household data across multiple countries, the study finds substantial heterogeneity depending on the institutional setting and integration policies in place. The paper is currently in preparation.
 
 ---
