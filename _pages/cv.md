@@ -39,15 +39,15 @@ header: false
 
 <h2>Education</h2>
 <div class="cv-section cv-grid-3">
-  <div class="cv-title">Ph.D. in Economics</div>
+  <div class="cv-title">Ph.D in Economics</div>
   <div>University of Southampton, UK</div>
   <div class="cv-right">2025</div>
 
-  <div class="cv-title">M.S. in Business Finance &amp; Economics</div>
+  <div class="cv-title">MSc in Business Finance &amp; Economics</div>
   <div>University of Sheffield, UK</div>
   <div class="cv-right">2020</div>
 
-  <div class="cv-title">B.S. in Financial Mathematics</div>
+  <div class="cv-title">BSc in Financial Mathematics</div>
   <div>Luoyang Normal University, China</div>
   <div class="cv-right">2018</div>
 </div>
